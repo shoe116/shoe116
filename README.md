@@ -17,7 +17,7 @@ I also help develop the [Monitoring Suite](https://manual.sakura.ad.jp/cloud/app
   - Less like a lecture, more like an open conversation
 
 #### 📚 What I'm learning & exploring
-- Playing guitar and singing (still a beginner, but having fun)
+- Playing guitar and singing, just picked up the fiddle
 - Studying philosophy, politics, and the arts at The Open University of Japan
 
 #### 📫 Get in touch
@@ -46,7 +46,7 @@ I also help develop the [Monitoring Suite](https://manual.sakura.ad.jp/cloud/app
   - 「発表より対話」を大事にしています
 
 #### 📚 学んでいること・興味のあること
-- ギターを弾いて歌っています（楽器はいつまでも初心者）
+- ギターを弾いて歌っています、フィドルも始めてみました
 - 放送大学で哲学・政治・芸術をつまみ食い中
 
 #### 📫 連絡先
