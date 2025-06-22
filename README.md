@@ -53,3 +53,12 @@ I also help develop the [Monitoring Suite](https://manual.sakura.ad.jp/cloud/app
 - ホームページ: https://shoe116.com/
 - GitHub: [@shoe116](https://github.com/shoe116)
 - X (旧Twitter): [@shoe116](https://x.com/shoe116)
+
+----
+![GitHub Streak](https://streak-stats.demolab.com/?user=shoe116)
+
+
+
+
+
+
