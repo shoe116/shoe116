@@ -5,6 +5,8 @@
 I'm a co-founder and software engineer at [Buffett Code](https://www.buffett-code.com/), a web platform for company analysis.  
 I also help develop the [Monitoring Suite](https://manual.sakura.ad.jp/cloud/appliance/monitoring-suite/index.html) at [Sakura Internet](https://sakura.ad.jp/).
 
+For more details, please see [here](https://shoe116.com/)(Japanese Only).
+
 #### 🚀 What I'm working on
 - **[Buffett Code](https://www.buffett-code.com/)**: A web service that helps analyze companies in Japan and the US  
   - I'm one of the co-founders and the longest-standing engineer  
@@ -21,8 +23,7 @@ I also help develop the [Monitoring Suite](https://manual.sakura.ad.jp/cloud/app
 - Studying philosophy, politics, and the arts at The Open University of Japan
 
 #### 📫 Get in touch
-- Website: https://shoe116.com/
-- GitHub: [@shoe116](https://github.com/shoe116)
+- Contact: [Contact Me page](https://docs.google.com/forms/d/e/1FAIpQLSco7sT1Fnhxwy8G-kBbN9X8rMhVnuueOumMJbGnKH2Md0ycag/viewform)
 - X (formerly Twitter): [@shoe116](https://x.com/shoe116)　(Feel free to DM me in English.)
 
 ---
@@ -33,6 +34,8 @@ I also help develop the [Monitoring Suite](https://manual.sakura.ad.jp/cloud/app
 
 [バフェット・コード](https://www.buffett-code.com/)の共同創業者兼ソフトウェアエンジニアです。  
 [さくらインターネット](https://sakura.ad.jp/)の[モニタリングスイート](https://manual.sakura.ad.jp/cloud/appliance/monitoring-suite/index.html)の開発のお手伝いもしています。
+
+より詳しくは[こちら](https://shoe116.com/)から。
 
 #### 🚀 現在取り組んでいること
 - **[バフェット・コード](https://www.buffett-code.com/)**： 日米の企業分析を支援するWebサービス  
