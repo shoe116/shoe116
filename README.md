@@ -54,7 +54,7 @@ For more details, please see [here](https://shoe116.com/)(Japanese Only).
 
 #### 📫 連絡先
 - ホームページ: https://shoe116.com/
-- GitHub: [@shoe116](https://github.com/shoe116)
+- お問い合わせ: [お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSco7sT1Fnhxwy8G-kBbN9X8rMhVnuueOumMJbGnKH2Md0ycag/viewform)
 - X (旧Twitter): [@shoe116](https://x.com/shoe116)
 
 ----
