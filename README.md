@@ -13,9 +13,18 @@ For more details, please see [here](https://shoe116.com/)(Japanese Only).
   - We're actively hiring engineers → [Join us!](https://career.buffett-code.com/)
 - **[OPERe Inc.](https://www.opere.jp/)**:  
   - Mentoring the engineering team and executive team
-- **[SaaS is dead JP Study](https://saasisdead.connpass.com/)** ([#saas_is_dead_jp](https://x.com/search?q=%23saas_is_dead_jp&src=typed_query&f=live)):  
+- **[SaaSがこの先生きのこるには](https://saasisdead.connpass.com/)** (#saas_is_dead_jp):  
   - A casual meetup exploring the future of SaaS  
   - Less like a lecture, more like an open conversation
+
+#### 🕰 Past work
+- **[Yahoo! Japan](https://www.yahoo.co.jp/)** (2012–2019): Worked on ad systems and big data infrastructure
+  - Built data pipelines with Apache Hadoop, Spark, and Hive
+- **[Mercari](https://about.mercari.com/)** (2019–2024): Worked on the data platform
+  - Built stream/batch pipelines with Apache Beam (Cloud Dataflow) and Apache Airflow (Cloud Composer)
+  - Later helped with the migration to Apache Flink and Argo Workflows
+- **[Sakura Internet](https://sakura.ad.jp/)** (2024–2026): Worked on the [Monitoring Suite](https://manual.sakura.ad.jp/cloud/appliance/monitoring-suite/index.html) log platform
+  - Built with Apache Iceberg / Kafka in Kotlin and Go
 
 #### 📚 What I'm learning & exploring
 - Playing guitar and singing, just picked up the fiddle
@@ -23,7 +32,6 @@ For more details, please see [here](https://shoe116.com/)(Japanese Only).
 - (The fiddle and my studies are on a short break while I focus on taking care of my baby 👶)
 
 #### 📫 Get in touch
-- Web Page: https://shoe116.com/
 - Contact: [Contact Me page](https://docs.google.com/forms/d/e/1FAIpQLSco7sT1Fnhxwy8G-kBbN9X8rMhVnuueOumMJbGnKH2Md0ycag/viewform)
 - X (formerly Twitter): [@shoe116](https://x.com/shoe116)　(Feel free to DM me in English.)
 
@@ -44,14 +52,23 @@ For more details, please see [here](https://shoe116.com/)(Japanese Only).
   - 絶賛エンジニア採用中 → [募集はこちら！](https://career.buffett-code.com/)
 - **[株式会社OPERe](https://www.opere.jp/)**：  
   - 開発チームと経営メンバーのメンタリングをしています
-- **[SaaSがこの先生きのこるには](https://saasisdead.connpass.com/)**（[#saas_is_dead_jp](https://x.com/search?q=%23saas_is_dead_jp&src=typed_query&f=live)）：  
-  - AI時代のSaaSのあり方をテーマにした勉強会を主催しています  
+- **[SaaSがこの先生きのこるには](https://saasisdead.connpass.com/)**（#saas_is_dead_jp）：  
+  - SaaSのこれからをテーマにした勉強会を主催しています  
   - 「発表より対話」を大事にしています
+
+#### 🕰 これまでのお仕事
+- **[Yahoo! Japan](https://www.yahoo.co.jp/)**（2012〜2019）： 広告システムとビッグデータ基盤の開発
+  - Apache Hadoop / Spark / Hive を使ってデータパイプラインを構築
+- **[メルカリ](https://about.mercari.com/)**（2019〜2024）： データプラットフォームの開発
+  - Apache Beam (Cloud Dataflow) と Apache Airflow (Cloud Composer) でストリーム・バッチパイプラインを構築
+  - 後に Apache Flink / Argo Workflows への移行もお手伝い
+- **[さくらインターネット](https://sakura.ad.jp/)**（2024〜2026）： [モニタリングスイート](https://manual.sakura.ad.jp/cloud/appliance/monitoring-suite/index.html)のログ基盤の開発
+  - Apache Iceberg / Kafka を使い、Kotlin と Go で開発
 
 #### 📚 学んでいること・興味のあること
 - ギターを弾いて歌っています、フィドルも始めてみました
 - 放送大学で哲学・政治・芸術をつまみ食い中
-- （フィドルと放送大学は、子育てのためちょっとお休み中です 👶）
+- （フィドルと放送大学は、今は子育てのため少しお休み中です 👶）
 
 #### 📫 連絡先
 - ホームページ: https://shoe116.com/
