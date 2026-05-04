@@ -23,6 +23,7 @@ For more details, please see [here](https://shoe116.com/)(Japanese Only).
 - (The fiddle and my studies are on a short break while I focus on taking care of my baby 👶)
 
 #### 📫 Get in touch
+- Web Page: https://shoe116.com/
 - Contact: [Contact Me page](https://docs.google.com/forms/d/e/1FAIpQLSco7sT1Fnhxwy8G-kBbN9X8rMhVnuueOumMJbGnKH2Md0ycag/viewform)
 - X (formerly Twitter): [@shoe116](https://x.com/shoe116)　(Feel free to DM me in English.)
 
