@@ -13,7 +13,7 @@ For more details, please see [here](https://shoe116.com/)(Japanese Only).
   - We're actively hiring engineers → [Join us!](https://career.buffett-code.com/)
 - **[OPERe Inc.](https://www.opere.jp/)**:  
   - Mentoring the engineering team and executive team
-- **[SaaS is dead JP Study](https://saasisdead.connpass.com/)** (#saas_is_dead_jp):  
+- **[SaaS is dead JP Study](https://saasisdead.connpass.com/)** ([#saas_is_dead_jp](https://x.com/search?q=%23saas_is_dead_jp&src=typed_query&f=live)):  
   - A casual meetup exploring the future of SaaS  
   - Less like a lecture, more like an open conversation
 
@@ -43,7 +43,7 @@ For more details, please see [here](https://shoe116.com/)(Japanese Only).
   - 絶賛エンジニア採用中 → [募集はこちら！](https://career.buffett-code.com/)
 - **[株式会社OPERe](https://www.opere.jp/)**：  
   - 開発チームと経営メンバーのメンタリングをしています
-- **[SaaSがこの先生きのこるには](https://saasisdead.connpass.com/)**（#saas_is_dead_jp）：  
+- **[SaaSがこの先生きのこるには](https://saasisdead.connpass.com/)**（[#saas_is_dead_jp](https://x.com/search?q=%23saas_is_dead_jp&src=typed_query&f=live)）：  
   - AI時代のSaaSのあり方をテーマにした勉強会を主催しています  
   - 「発表より対話」を大事にしています
 
