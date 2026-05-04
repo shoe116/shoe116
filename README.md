@@ -3,7 +3,7 @@
 ### 👋 Hi, I'm Shu (@shoe116)
 
 I'm a co-founder and software engineer at [Buffett Code](https://www.buffett-code.com/), a web platform for company analysis.  
-I also help develop the [Monitoring Suite](https://manual.sakura.ad.jp/cloud/appliance/monitoring-suite/index.html) at [Sakura Internet](https://sakura.ad.jp/).
+I also mentor the engineering and executive teams at [OPERe Inc.](https://www.opere.jp/).
 
 For more details, please see [here](https://shoe116.com/)(Japanese Only).
 
@@ -11,16 +11,16 @@ For more details, please see [here](https://shoe116.com/)(Japanese Only).
 - **[Buffett Code](https://www.buffett-code.com/)**: A web service that helps analyze companies in Japan and the US  
   - I'm one of the co-founders and the longest-standing engineer  
   - We're actively hiring engineers → [Join us!](https://career.buffett-code.com/)
-- **[Sakura Internet](https://sakura.ad.jp/)**:  
-  - Supporting the development of their Monitoring Suite  
-  - Building with Apache Iceberg / Kafka in Kotlin and Go
-- **[Data & Analytics Ido-bata Meeting](https://data-analytics-idobata.connpass.com/)**:  
-  - A casual discussion group for topics around data engineering  
+- **[OPERe Inc.](https://www.opere.jp/)**:  
+  - Mentoring the engineering team and executive team
+- **[SaaS is dead JP Study](https://saasisdead.connpass.com/)** (#saas_is_dead_jp):  
+  - A casual meetup exploring the future of SaaS  
   - Less like a lecture, more like an open conversation
 
 #### 📚 What I'm learning & exploring
 - Playing guitar and singing, just picked up the fiddle
 - Studying philosophy, politics, and the arts at The Open University of Japan
+- (The fiddle and my studies are on a short break while I focus on taking care of my baby 👶)
 
 #### 📫 Get in touch
 - Contact: [Contact Me page](https://docs.google.com/forms/d/e/1FAIpQLSco7sT1Fnhxwy8G-kBbN9X8rMhVnuueOumMJbGnKH2Md0ycag/viewform)
@@ -33,7 +33,7 @@ For more details, please see [here](https://shoe116.com/)(Japanese Only).
 ### 👋 こんにちは、しゅう（@shoe116）です
 
 [バフェット・コード](https://www.buffett-code.com/)の共同創業者兼ソフトウェアエンジニアです。  
-[さくらインターネット](https://sakura.ad.jp/)の[モニタリングスイート](https://manual.sakura.ad.jp/cloud/appliance/monitoring-suite/index.html)の開発のお手伝いもしています。
+[株式会社OPERe](https://www.opere.jp/)で開発チームと経営メンバーのメンタリングもしています。
 
 より詳しくは[こちら](https://shoe116.com/)から。
 
@@ -41,16 +41,16 @@ For more details, please see [here](https://shoe116.com/)(Japanese Only).
 - **[バフェット・コード](https://www.buffett-code.com/)**： 日米の企業分析を支援するWebサービス  
   - 共同創業者で、最古参のエンジニアです  
   - 絶賛エンジニア採用中 → [募集はこちら！](https://career.buffett-code.com/)
-- **[さくらインターネット](https://sakura.ad.jp/)**：  
-  - モニタリングスイートの開発をお手伝いしています  
-  - Apache Iceberg / Kafka を使い、Kotlin と Go で開発しています
-- **[Data & Analytics井戸端会議](https://data-analytics-idobata.connpass.com/)**：  
-  - データエンジニアリングをテーマにした井戸端会議形式の勉強会を主催しています  
+- **[株式会社OPERe](https://www.opere.jp/)**：  
+  - 開発チームと経営メンバーのメンタリングをしています
+- **[SaaSがこの先生きのこるには](https://saasisdead.connpass.com/)**（#saas_is_dead_jp）：  
+  - AI時代のSaaSのあり方をテーマにした勉強会を主催しています  
   - 「発表より対話」を大事にしています
 
 #### 📚 学んでいること・興味のあること
 - ギターを弾いて歌っています、フィドルも始めてみました
 - 放送大学で哲学・政治・芸術をつまみ食い中
+- （フィドルと放送大学は、今は子育てのため少しお休み中です 👶）
 
 #### 📫 連絡先
 - ホームページ: https://shoe116.com/
@@ -59,9 +59,3 @@ For more details, please see [here](https://shoe116.com/)(Japanese Only).
 
 ----
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shoe116)
-
-
-
-
-
-
