@@ -18,9 +18,9 @@ For more details, please see [here](https://shoe116.com/)(Japanese Only).
   - Less like a lecture, more like an open conversation
 
 #### 🕰 Past work
-- **[Yahoo! Japan](https://www.yahoo.co.jp/)** (2012–2019): Worked on ad systems and big data infrastructure
+- **[Yahoo! Japan](https://www.yahoo.co.jp/)** (2012–2018): Worked on ad systems and big data infrastructure
   - Built data pipelines with Apache Hadoop, Spark, and Hive
-- **[Mercari](https://about.mercari.com/)** (2019–2024): Worked on the data platform
+- **[Mercari](https://about.mercari.com/)** (2018–2024): Worked on the data platform
   - Built stream/batch pipelines with Apache Beam (Cloud Dataflow) and Apache Airflow (Cloud Composer)
   - Later helped with the migration to Apache Flink and Argo Workflows
 - **[Sakura Internet](https://sakura.ad.jp/)** (2024–2026): Worked on the [Monitoring Suite](https://manual.sakura.ad.jp/cloud/appliance/monitoring-suite/index.html) log platform
